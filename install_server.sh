@@ -47,4 +47,4 @@ echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Installed Application Versions @@@@@@@@@@@@@
 echo Php Version
 php -v
 echo NodeJS Version
-node --v 
+node -v 
