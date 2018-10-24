@@ -1,4 +1,6 @@
 sudo apt-get update
+sudo apt-get install htop
+sudo apt-get install screen
 echo +++++++++++++++++++ Apache @ Installtion +++++++++++++++++++++++++++++++++++
 sudo apt-get install apache2
 sudo systemctl enable apache2
